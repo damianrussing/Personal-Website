@@ -36,9 +36,9 @@ if (filter_has_var(INPUT_POST, 'submit')) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Document</title>
+    <title>Damian Russing</title>
     <link rel="icon" href="assets/icon.png">
-    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
     <script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/typed.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
